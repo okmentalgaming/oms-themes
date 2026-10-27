@@ -1,0 +1,3 @@
+# local pack-staging folders (contents ship as the zip/.pack files)
+pack*/
+*.tmp
