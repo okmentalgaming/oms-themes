@@ -6,5 +6,17 @@
       "version": "1.0.3",
       "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/ewc-1.0.3.zip"
     }
-  ]
+  ],
+  "engine": {
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/engine-1.0.2.pack",
+    "sha256": "b339221552fa6904ea20ce692b005f665489801b9c5bd027052ed88fdb457590",
+    "type": "pack"
+  },
+  "app": {
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.2.pack",
+    "sha256": "8cdfeb11a524f4e9f4bbb62386c68e1fdb9b5819ac1b2546b68d6247e429ed09",
+    "type": "pack"
+  }
 }
