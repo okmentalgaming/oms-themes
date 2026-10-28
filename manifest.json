@@ -3,20 +3,20 @@
     {
       "id": "ewc",
       "name": "EWC",
-      "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/ewc-1.0.3.zip"
+      "version": "1.0.4",
+      "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/ewc-1.0.4.zip"
     }
   ],
   "engine": {
-    "version": "1.0.2",
-    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/engine-1.0.2.pack",
-    "sha256": "b339221552fa6904ea20ce692b005f665489801b9c5bd027052ed88fdb457590",
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/engine-1.0.3.pack",
+    "sha256": "f0c4bfa2acfec7bcfbaa03270d762818fe972d6de5b6f06747a0b41bcd587611",
     "type": "pack"
   },
   "app": {
-    "version": "1.0.3",
-    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.3.pack",
-    "sha256": "6d840eda58091ddb17698d4687953c22eaa2e8e91ad8a06cce6e2d370bc0ba63",
+    "version": "1.0.4",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.4.pack",
+    "sha256": "d9c6d86f8f0dfb876e061892458d6cfae6a5987a4afb5e292e1006818ea93442",
     "type": "pack"
   }
 }
