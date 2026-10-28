@@ -14,9 +14,9 @@
     "type": "pack"
   },
   "app": {
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.4.pack",
-    "sha256": "d9c6d86f8f0dfb876e061892458d6cfae6a5987a4afb5e292e1006818ea93442",
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.5.pack",
+    "sha256": "a331e17b57010e7768c5e91a56754c82432e0a78b02f4d0888343b69db1c3039",
     "type": "pack"
   }
 }
