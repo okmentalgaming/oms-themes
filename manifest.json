@@ -8,15 +8,15 @@
     }
   ],
   "engine": {
-    "version": "1.0.3",
-    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/engine-1.0.3.pack",
-    "sha256": "f0c4bfa2acfec7bcfbaa03270d762818fe972d6de5b6f06747a0b41bcd587611",
+    "version": "1.0.4",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/engine-1.0.4.pack",
+    "sha256": "dc1efde665c5a7449afc9f42f6a04b21cd503cf66ccdf63e86dd4ca054bb03ff",
     "type": "pack"
   },
   "app": {
-    "version": "1.0.6",
-    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.6.pack",
-    "sha256": "1b4e12664ff0a31e9dfbc4d41a6f2f4587fa38cc0a86ad1130b337c57b59c769",
+    "version": "1.0.7",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.7.pack",
+    "sha256": "99829cab15025564e4abb145791caf335037ef6d11429aa5e962c7fdc854d80e",
     "type": "pack"
   }
 }
