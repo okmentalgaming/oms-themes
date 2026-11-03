@@ -14,25 +14,25 @@
     "type": "pack"
   },
   "app": {
-    "version": "1.0.11",
-    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.11.pack",
-    "sha256": "ee8fbfd7acd4006d2798691f3e313a37853f0d64b8bc728970f48dcd64794ad2",
+    "version": "1.0.12",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.12.pack",
+    "sha256": "46929fb9c88eda2a5d939b42b0541e4b41bed517ae381d995ca8544e25c1c20a",
     "type": "pack"
   },
   "themePacks": [
     {
       "id": "pmgo",
       "name": "PMGO Season 1",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "type": "pack",
       "parts": [
         {
-          "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/pmgo-1.0.3-1.pack",
-          "sha256": "56057411c9036de02b7c85846ff16e46957998802d27641248f6f39d9a596919",
-          "size": 4589976
+          "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/pmgo-1.0.4-1.pack",
+          "sha256": "93daad4b2b9648ce4e3e8375602fc10e4885661db28e8134d0c5133e717b98b4",
+          "size": 4589970
         }
       ],
-      "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/pmgo-1.0.3-1.pack"
+      "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/pmgo-1.0.4-1.pack"
     }
   ]
 }
