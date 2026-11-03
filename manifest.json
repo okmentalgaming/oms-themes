@@ -23,16 +23,16 @@
     {
       "id": "pmgo",
       "name": "PMGO Season 1",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "type": "pack",
       "parts": [
         {
-          "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/pmgo-1.0.1-1.pack",
-          "sha256": "80b1d9a52389af9d2a6e058b8678eb5c529b0da77a7aacf680f5df415c264317",
-          "size": 4436381
+          "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/pmgo-1.0.2-1.pack",
+          "sha256": "0324d4199a6099a5369b01ff9a5334d0b5f8cfe52674c33553211c4a2877f56a",
+          "size": 4436378
         }
       ],
-      "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/pmgo-1.0.1-1.pack"
+      "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/pmgo-1.0.2-1.pack"
     }
   ]
 }
