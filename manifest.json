@@ -8,9 +8,9 @@
     }
   ],
   "engine": {
-    "version": "1.0.10",
-    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/engine-1.0.10.pack",
-    "sha256": "b5367f4d9e6a2d79b6a88daefeeace6c46117a31e6523e803ba953f93e09dcff",
+    "version": "1.0.11",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/engine-1.0.11.pack",
+    "sha256": "83e50187b289b6726c82151fa4a35560b59e4ca59746f21885f7a9270099081a",
     "type": "pack"
   },
   "app": {
