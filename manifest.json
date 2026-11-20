@@ -3,8 +3,8 @@
     {
       "id": "ewc",
       "name": "EWC",
-      "version": "1.0.14",
-      "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/ewc-1.0.14.zip"
+      "version": "1.0.15",
+      "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/ewc-1.0.15.zip"
     }
   ],
   "engine": {
@@ -14,9 +14,9 @@
     "type": "pack"
   },
   "app": {
-    "version": "1.0.21",
-    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.21.pack",
-    "sha256": "9f8163d38f6acb6a3d3fab6fb07e2285ebaaecba2bbed4b5ff37aab257307903",
+    "version": "1.0.22",
+    "url": "https://raw.githubusercontent.com/okmentalgaming/oms-themes/main/app-1.0.22.pack",
+    "sha256": "404d922cd1dbcafb63b45a5a1ea166b2fa3f18e2d822123a80c40228d280925b",
     "type": "pack"
   },
   "themePacks": [
